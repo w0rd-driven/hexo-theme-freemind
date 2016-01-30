@@ -4,6 +4,48 @@
   
     
     <entry>
+      <title><![CDATA[Color Themes]]></title>
+      <url>http://wzpan.github.io/hexo-theme-freemind/2016/01/30/color-themes/</url>
+      <content type="html"><![CDATA[<p>Freemind contains luxuriant color themes for your choice. To use one of them, simply modify the <code>theme</code> and <code>inverse</code> settings from your theme <code>_config.yml</code> file.</p>
+<p>User contributions are welcome! If you want to contribute a color theme, you can <a href="https://github.com/wzpan/hexo-theme-freemind/" target="_blank" rel="external">fork freemind</a> and send me a pull request.</p>
+<h2 id="bootstrap">bootstrap</h2><h3 id="default">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/bootstrap.png" alt="bootstrap"></p>
+<h3 id="inverse">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/bootstrap-inverse.png" alt="bootstrap-inverse"></p>
+<h2 id="cerulean">cerulean</h2><h3 id="default-1">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/cerulean.png" alt="cerulean"></p>
+<h3 id="inverse-1">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/cerulean-inverse.png" alt="cerulean-inverse"></p>
+<h2 id="cosmo">cosmo</h2><h3 id="default-2">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/cosmo.png" alt="cosmo"></p>
+<h3 id="inverse-2">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/cosmo-inverse.png" alt="cosmo-inverse"></p>
+<h2 id="cyborg">cyborg</h2><h3 id="default-3">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/cyborg.png" alt="cyborg"></p>
+<h3 id="inverse-3">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/cyborg-inverse.png" alt="cyborg-inverse"></p>
+<h2 id="darkly">darkly</h2><h3 id="default-4">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/darkly.png" alt="darkly"></p>
+<h3 id="inverse-4">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/darkly-inverse.png" alt="darkly-inverse"></p>
+<h2 id="flatly">flatly</h2><h3 id="default-5">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/flatly.png" alt="flatly"></p>
+<h3 id="inverse-5">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/flatly-inverse.png" alt="flatly"></p>
+<h2 id="journal">journal</h2><h3 id="default-6">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/journal.png" alt="journal"></p>
+<h3 id="inverse-6">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/journal-inverse.png" alt="journal-inverse"></p>
+<h2 id="lumen">lumen</h2><h3 id="default-7">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/lumen.png" alt="lumen"></p>
+<h3 id="inverse-7">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/lumen-inverse.png" alt="lumen-inverse"></p>
+<h2 id="paper">paper</h2><h3 id="default-8">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/paper.png" alt="paper"></p>
+<h3 id="inverse-8">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/paper-inverse.png" alt="paper-inverse"></p>
+<h2 id="readable">readable</h2><h3 id="default-9">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/readable.png" alt="readable"></p>
+<h3 id="inverse-9">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/readable-inverse.png" alt="readable-inverse"></p>
+<h2 id="sandstone">sandstone</h2><h3 id="default-10">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/sandstone.png" alt="sandstone"></p>
+<h3 id="inverse-10">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/sandstone-inverse.png" alt="sandstone-inverse"></p>
+<h2 id="simplex">simplex</h2><h3 id="default-11">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/simplex.png" alt="simplex"></p>
+<h3 id="inverse-11">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/simplex-inverse.png" alt="simplex-inverse"></p>
+<h2 id="slate">slate</h2><h3 id="default-12">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/slate.png" alt="slate"></p>
+<h3 id="inverse-12">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/slate-inverse.png" alt="slate-inverse"></p>
+<h2 id="spacelab">spacelab</h2><h3 id="default-13">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/spacelab.png" alt="spacelab"></p>
+<h3 id="inverse-13">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/spacelab-inverse.png" alt="spacelab-inverse"></p>
+<h2 id="superhero">superhero</h2><h3 id="default-14">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/superhero.png" alt="superhero"></p>
+<h3 id="inverse-14">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/superhero-inverse.png" alt="superhero-inverse"></p>
+<h2 id="united">united</h2><h3 id="default-15">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/united.png" alt="united"></p>
+<h3 id="inverse-15">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/united-inverse.png" alt="united-inverse"></p>
+<h2 id="yeti">yeti</h2><h3 id="default-16">default</h3><p><img src="/hexo-theme-freemind/images/color-themes/yeti.png" alt="yeti"></p>
+<h3 id="inverse-16">inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/yeti-inverse.png" alt="yeti-inverse"></p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Questions and Answers]]></title>
       <url>http://wzpan.github.io/hexo-theme-freemind/2014/03/16/qna/</url>
       <content type="html"><![CDATA[<span class="label label-danger">Q</span> What does <code>Freemind</code> stands for?<br><br><span class="label label-success">A</span> <code>Freemind</code> is named after <a href="http://freemind.pluskid.org/" target="_blank" rel="external">Pluskid’s blog</a>. This theme is greatly inspired by his blog layouts and stylesheets.<br><br><span class="label label-danger">Q</span> There’re already so many themes for Hexo. Why create this one?<br><br><span class="label label-success">A</span> In fact I created this theme before I turned to use Hexo. I switched to Hexo about half an year ago, including my theme, since I have already got used to it and don’t wanna change it for now.<br><br><a id="more"></a>
@@ -168,8 +210,7 @@
     <entry>
       <title><![CDATA[Code Highlight]]></title>
       <url>http://wzpan.github.io/hexo-theme-freemind/2014/03/15/code-highlight/</url>
-      <content type="html"><![CDATA[<h2 id="Haskell">Haskell</h2><figure class="highlight hs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="typedef"><span class="keyword">data</span> <span class="type">Shape</span> = <span class="type">Circle</span> <span class="type">Float</span> | <span class="type">Rectangle</span> <span class="type">Float</span> <span class="type">Float</span> <span class="keyword">deriving</span> <span class="hscontainer">(<span class="type">Show</span>)</span></span></span><br></pre></td></tr></table></figure>
-<h2 id="C">C</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// C</span></span><br><span class="line"><span class="preprocessor">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span><br><span class="line"></span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"Hello World\n"</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+      <content type="html"><![CDATA[<h2 id="C">C</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// C</span></span><br><span class="line"><span class="preprocessor">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span><br><span class="line"></span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">"Hello World\n"</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <h2 id="C++">C++</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// C++</span></span><br><span class="line"><span class="preprocessor">#<span class="keyword">include</span> <span class="string">&lt;iostream.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span><br><span class="line"></span>&#123;</span><br><span class="line">    <span class="built_in">cout</span> &lt;&lt; <span class="string">"Hello World"</span> &lt;&lt; endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
 <h2 id="JAVA">JAVA</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">helloWorld</span></span><br><span class="line"></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String args[])</span></span><br><span class="line">    </span>&#123;</span><br><span class="line">        System.out.println(<span class="string">"Hello World"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
