@@ -9,29 +9,29 @@
       <div class="collapse navbar-collapse nav-menu">
 		<ul class="nav navbar-nav">
 		  <% theme.menu.forEach(function(menu){ %>
+			<% if (typeof menu.submenu !== 'undefined' && menu.submenu && menu.submenu.length) { %>
+			<li class="dropdown">
+				<a href="<%- config.root %><%- menu.url %>" title="<%- menu.intro %>">
+					<%- menu.title %>
+					<span class="caret"></span>
+				</a>
+				<ul class="dropdown-menu">
+					<% menu.submenu.forEach(function(submenu){ %>
+					<li>
+						<a href="<%- config.root %><%- submenu.url %>" title="<%- submenu.intro %>">
+							<%- submenu.title %>
+						</a>
+					</li>
+					<% }) %>
+				</ul>
+			</li>
+			<% } else { %>
 			<li>
-				<% if (typeof menu.submenu !== 'undefined' && menu.submenu && menu.submenu.length) { %>
-				<div class="dropdown">
-					<a href="<%- config.root %><%- menu.url %>" title="<%- menu.intro %>">
-						<%- menu.title %>
-						<span class="caret"></span>
-					</a>
-					<ul class="dropdown-menu">
-						<% menu.submenu.forEach(function(submenu){ %>
-						<li>
-							<a href="<%- config.root %><%- submenu.url %>" title="<%- submenu.intro %>">
-								<%- submenu.title %>
-							</a>
-						</li>
-						<% }) %>
-					</ul>
-				</div>
-				<% } else { %>
 				<a href="<%- config.root %><%- menu.url %>" title="<%- menu.intro %>">
 					<%- menu.title %>
 				</a>
-				<% } %>
 			</li>
+			<% } %>
 		  <% }) %>
 		</ul>
 		<ul class="nav navbar-nav pull-right">
