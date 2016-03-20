@@ -1,56 +1,89 @@
-slogan: "Yet another bootstrap theme."
+#slogan: "Yet another bootstrap theme."
 
-theme: cerulean
+theme: yeti
 inverse: inverse
 
 menu:
-  - title: Archives
-    url: archives
-    intro: "All the articles."
-    icon: "fa fa-archive"
-  - title: Categories
-    url: categories
-    intro: "All the categories."
-    icon: "fa fa-folder"
-  - title: Tags
-    url: tags
-    intro: "All the tags."
-    icon: "fa fa-tags"
+  - title: Home
+    url:
+    intro: "Home"
+#    icon: "fa fa-home"
+  - title: Contact
+    url: contact/
+    intro: "Contact me."
+#    icon: "fa fa-envelope"
   - title: About
-    url: about
+    url: about/
     intro: "About me."
-    icon: "fa fa-user"
+#    icon: "fa fa-user"
+  - title: Resume
+    url: resume/
+    intro: "My Resume"
+#    icon: "fa fa-resume"
+    submenu:
+      - title: Curriculum Vitae
+        url: resume/curriculum-vitae/
+        intro: "My Curriculum Vitae"
+#        icon: "fa fa-portfolio"
+  - title: Portfolio
+    url: portfolio/
+    intro: "My Portfolio"
+#    icon: "fa fa-portfolio"
+    submenu:
+      - title: Windows Desktop and Store
+        url: portfolio/windows/
+        intro: "Windows Desktop and Store Portfolio"
+#        icon: "fa fa-portfolio"
+      - title: Windows Phone
+        url: portfolio/wp/
+        intro: "Windows Phone Portfolio"
+#        icon: "fa fa-portfolio"
+      - title: Web
+        url: portfolio/web/
+        intro: "Web Portfolio"
+#        icon: "fa fa-portfolio"
+      - title: SalesLogix
+        url: portfolio/salesLogix/
+        intro: "SalesLogix Portfolio"
+#        icon: "fa fa-portfolio"
+  - title: Archives
+    url: archives/
+    intro: "All the articles."
+#    icon: "fa fa-archive"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
+  - title: "Github"
+    url: http://www.github.com/w0rd-driven
+    intro: "Github Profile."
     icon: "fa fa-github"
-  - title: "My Github"
-    url: http://www.github.com/wzpan
-    intro: "My Github account."
-    icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
-    intro: "My Linkin account."
+  - title: "LinkedIn"
+    url: http://www.linkedin.com/in/jeremybrayton
+    intro: "LinkedIn Profile."
     icon: "fa fa-linkedin"
+  - title: "Twitter"
+    url: https://twitter.com/w0rddriven/
+    intro: "Twitter Profile."
+    icon: "fa fa-twitter"
+  - title: "Google Plus"
+    url: https://plus.google.com/+JeremyBrayton
+    intro: "Google Plus Profile."
+    icon: "fa fa-google-plus"
+  - title: "Feed"
+    url: feed/
+    intro: "Subscribe via RSS"
+    icon: "fa fa-rss"
 
-widgets:
-- search
-- category
-- tagcloud
-- recent_posts  
-- links
+#widgets:
 
-rss: 
+rss:
 fancybox: true
 favicon: favicon.png
 duoshuo_shortname:
 
 # Analytics
 google_analytics:
-  enable: false
-  siteid:
+  enable: true
+  siteid: UA-38098382-1
 baidu_tongji:
   enable: false
   siteid:
