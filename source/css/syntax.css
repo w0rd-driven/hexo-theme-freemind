@@ -1,0 +1,46 @@
+@import url(gist.css);
+@import url(highlight.css);
+/**
+ * gist.scss
+ * https://github.com/Aweary/gist.scss
+ * @author Brandon Dail
+ * @license MIT
+ */
+.gist .gist-meta {
+  display: block !important; }
+.gist .gist-meta {
+  display: block !important; }
+.gist .line-numbers {
+  border: none !important; }
+.gist .line-numbers {
+  color: #B52A1D !important; }
+.gist .line-numbers {
+  background-color: #EEEEEE !important; }
+.gist .gist-data {
+  background-color: #EEEEEE !important; }
+.gist .highlight {
+  background-color: #EEEEEE !important; }
+.gist .line-data {
+  color: #333333 !important; }
+.gist .gist-data {
+  color: #333333 !important; }
+.gist .gist-file {
+  border: none !important; }
+.gist .main-content table td {
+  border: none !important; }
+.gist .pl-k {
+  color: #04DBAC !important; }
+.gist .pl-s {
+  color: #B52A1D !important; }
+.gist .pl-s1 {
+  color: #1D5CB5 !important; }
+.gist .pl-s2 {
+  color: #31AFD4 !important; }
+.gist .pl-s3 {
+  color: #FE9000 !important; }
+.gist .pl-st {
+  color: #FFDD4A !important; }
+.gist .pl-en {
+  color: #094074 !important; }
+
+/*# sourceMappingURL=syntax.css.map */
