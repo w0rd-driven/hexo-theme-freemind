@@ -6,13 +6,13 @@
  */
 
 $gist: (
-  background: #EEEEEE,
-  color: #333333,
-  border: none,
+  background: #FEFEFE,
+  color: #333,
   colors: #04DBAC #B52A1D #1D5CB5 #31AFD4 #FE9000 #FFDD4A #094074,
-  line-numbers-bg: #EEEEEE,
-  line-numbers-color: #B52A1D,
-  line-numbers-border: none,
+  line-numbers-bg: #FEFEFE,
+  line-numbers-color: #333,
+  line-numbers-border: solid #EEE,
+  line-numbers-border-width: 0 1px 0 0,
   meta-display: block
 );
 
@@ -33,9 +33,10 @@ $classes: 'k' 's' 's1' 's2' 's3' 'st' 'en' 'pds';
   @include map-gist-values(meta-color, gist-meta, color);
   @include map-gist-values(meta-display, gist-meta, display);
   @include map-gist-values(meta-display, gist-meta, display);
-  @include map-gist-values(line-numbers-border, line-numbers, border);
-  @include map-gist-values(line-numbers-color, line-numbers, color);
-  @include map-gist-values(line-numbers-bg, line-numbers, background-color);
+  @include map-gist-values(line-numbers-border, blob-num, border);
+  @include map-gist-values(line-numbers-border-width, blob-num, border-width);
+  @include map-gist-values(line-numbers-color, blob-num, color);
+  @include map-gist-values(line-numbers-bg, blob-num, background-color);
 
 
   @if map-has-key($gist, background) {

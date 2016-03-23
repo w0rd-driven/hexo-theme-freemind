@@ -10,24 +10,22 @@
   display: block !important; }
 .gist .gist-meta {
   display: block !important; }
-.gist .line-numbers {
-  border: none !important; }
-.gist .line-numbers {
-  color: #B52A1D !important; }
-.gist .line-numbers {
-  background-color: #EEEEEE !important; }
+.gist .blob-num {
+  border: solid #EEE !important; }
+.gist .blob-num {
+  border-width: 0 1px 0 0 !important; }
+.gist .blob-num {
+  color: #333 !important; }
+.gist .blob-num {
+  background-color: #FEFEFE !important; }
 .gist .gist-data {
-  background-color: #EEEEEE !important; }
+  background-color: #FEFEFE !important; }
 .gist .highlight {
-  background-color: #EEEEEE !important; }
+  background-color: #FEFEFE !important; }
 .gist .line-data {
-  color: #333333 !important; }
+  color: #333 !important; }
 .gist .gist-data {
-  color: #333333 !important; }
-.gist .gist-file {
-  border: none !important; }
-.gist .main-content table td {
-  border: none !important; }
+  color: #333 !important; }
 .gist .pl-k {
   color: #04DBAC !important; }
 .gist .pl-s {
