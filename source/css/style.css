@@ -195,7 +195,7 @@ a.search-result-title {
 }
 
 p.search-result {
-  color=#555;
+  color: #555;
 }
 
 em.search-keyword {
@@ -380,7 +380,7 @@ h4 {
    ========================================================================== */
 
 .page .entry{
-  padding-top: 10px 0;
+  padding-top: 10px;
 }
 
 .page .entry .row{
