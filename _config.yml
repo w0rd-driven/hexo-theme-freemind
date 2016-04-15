@@ -17,7 +17,7 @@ menu:
     intro: "About me."
 #    icon: "fa fa-user"
   - title: Resume
-    url: //registry.jsonresume.org/w0rd-driven
+    url: resume/
     intro: "My Resume"
 #    icon: "fa fa-resume"
     submenu:
