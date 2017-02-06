@@ -43,7 +43,7 @@ menu:
         intro: "Web Portfolio"
 #        icon: "fa fa-portfolio"
       - title: SalesLogix
-        url: portfolio/salesLogix/
+        url: portfolio/saleslogix/
         intro: "SalesLogix Portfolio"
 #        icon: "fa fa-portfolio"
   - title: Archives
